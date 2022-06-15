@@ -4,8 +4,6 @@
 
 Ceramic is a decentralized data network, that allows for building composable Web3 applications. Since Ceramic decentralizes application databases, application developers can reuse data across applications and make them automatically interoperable.
 
-In the course of this article, we will dig deeper into what those statements actually mean, and why decentralized data is important in the first place.
-
 ## Web3 and Data
 In the past few years, we have seen Web3 trends like DeFi, NFTs, and more recently DAOs blow up. Smart contract platforms like Ethereum have shown us that dApps which act as legos, and can be composed together with other dApps to build entirely new dApps have a lot of value. This is particularly highlighted with tokens that build on top of other tokens, DeFi protocols which utilize other DeFi protocols, etc.
 
